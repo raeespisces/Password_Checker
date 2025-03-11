@@ -12,9 +12,9 @@ st.set_page_config(
 st.markdown("""
 <style>
     .main{text-align: center;}
-    .stTextInput {width: 50% !important; margin: auto;}
-    .stButton {width: 50%; background-color: #000; color: #fff; font-size: 16px;}
-    .stButton:hover {background-color: #fff; color: #000;}
+    .stTextInput {width: 60% !important; margin: auto;}
+    .stButton {width: 50%; background-color: #4CAF50; color: white; font-size: 18px;}
+    .stButton:hover {background-color: #45a049;}
 
 </style>
 """, unsafe_allow_html=True)
