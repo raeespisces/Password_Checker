@@ -11,10 +11,10 @@ st.set_page_config(
 #custom css
 st.markdown("""
 <style>
-    .main{text-align: center;}
+       .main{text-align: center;}
     .stTextInput {width: 60% !important; margin: auto;}
-    .stButton {width: 50%; background-color: #4CAF50; color: white; font-size: 18px;}
-    .stButton:hover {background-color: #45a049;}
+    .stButton {width: 50%; background-color: #4CAF50; color: yellow; font-size: 18px;}
+    .stButton:hover {background-color: blue; justify-items: center;}
 
 </style>
 """, unsafe_allow_html=True)
